@@ -6,9 +6,9 @@ const YukinaConfig: Configuration = {
   subTitle: "",
   brandTitle: "Antropogenesi",
 
-  description: "Demo Site",
+  description: "Digtal Garden",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://antropogenesi.vercel.app",
 
   locale: "en", // set for website language and date format
 
@@ -27,13 +27,13 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      href: "https://github.com/Asyn-c",
     },
   ],
 
   username: "Pantope",
   sign: "「现在，他相信他理解了那句格言的意义：通过认识不可知的东西，我们知道的不是某种关于它的东西，而是某种关于我们自己的东西。那个永远不可能是第一的东西，在自身的消逝中，让他瞥见了开端的微光。」——Giorgio Agamben",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  avatarUrl: "https://youke1.picui.cn/s1/2025/11/27/69285581d2e74.jpg",
   socialLinks: [
     {
       icon: "line-md:github-loop",
