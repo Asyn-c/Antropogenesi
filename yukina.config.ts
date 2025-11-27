@@ -2,9 +2,9 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "Antropogenesi",
+  subTitle: "",
+  brandTitle: "Antropogenesi",
 
   description: "Demo Site",
 
@@ -31,21 +31,21 @@ const YukinaConfig: Configuration = {
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
+  username: "Pantope",
+  sign: "「现在，他相信他理解了那句格言的意义：通过认识不可知的东西，我们知道的不是某种关于它的东西，而是某种关于我们自己的东西。那个永远不可能是第一的东西，在自身的消逝中，让他瞥见了开端的微光。」——Giorgio Agamben",
   avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
   socialLinks: [
     {
       icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
+      link: "https://github.com/Asyn-c",
     },
     {
       icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
+      link: "https://space.bilibili.com/2965849?spm_id_from=333.1007.0.0",
     },
     {
       icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      link: "https://www.douban.com/people/120166641/?_i=4247712oip4gEZ",
     },
   ],
   maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
